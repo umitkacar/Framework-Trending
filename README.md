@@ -17,6 +17,12 @@ https://www.streamlit.io/
 
 ## TOOLSET
 
+#### JOVIAN
+
+Tooling and workflows built specifically for data science
+
+https://www.jovian.ml/
+
 #### EXACT
 
 Exact is a collaborative online tool for labeling image data.
