@@ -1,5 +1,5 @@
 # My-Framework-Trending
-My Framework, Toolset, Library, Application Platform etc.
+Framework, Toolset, Application Platform etc.
 
 ## FRAMEWORK
 
