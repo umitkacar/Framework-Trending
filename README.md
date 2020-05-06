@@ -1,6 +1,12 @@
 # My-Framework-Trending
 Framework, Toolset, Application Platform etc.
 
+## LIBRARY
+
+#### ALBUMENTATIONS
+
+https://github.com/albumentations-team/albumentations
+
 ## FRAMEWORK
 
 #### SCRAPY
