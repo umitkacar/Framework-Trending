@@ -61,5 +61,10 @@ Postman is a collaboration platform for API development. Postman's features simp
 
 https://www.postman.com/
 
+#### NEPTUNE.AI
+
+Neptune is a light-weight experiment management tool that helps you keep track of your machine learning experiments.
+Use Neptune to log hyperparameters and output metrics from your runs, then visualize and compare results. Automatically transform tracked data into a knowledge repository, then share and discuss your work with colleagues.
+
 
 
