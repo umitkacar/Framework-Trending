@@ -21,6 +21,12 @@ Streamlit’s open-source app framework is the easiest way for data scientists a
 
 https://www.streamlit.io/
 
+#### SKORCH
+
+A scikit-learn compatible neural network library that wraps PyTorch.
+
+https://skorch.readthedocs.io/en/stable/index.html
+
 ## TOOLSET
 
 #### JOVIAN
