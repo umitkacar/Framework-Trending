@@ -3,6 +3,11 @@ Framework, Toolset, Application Platform etc.
 
 ## LIBRARY
 
+
+### PAPERMILL
+
+https://github.com/nteract/papermill
+
 #### ALBUMENTATIONS
 
 https://github.com/albumentations-team/albumentations
